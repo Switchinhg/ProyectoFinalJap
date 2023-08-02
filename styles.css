@@ -1,6 +1,10 @@
 body {
     background-color: rgb(255, 255, 165);
 }
+.titulo {
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+}
 
 .image{
     border: 5px solid green;

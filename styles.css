@@ -1,9 +1,13 @@
 body {
     background-color: rgb(59, 69, 90);
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color:white;
 }
 
 .image{
-    border: 5px solid green;
+    border: 4px groove #000;
+    box-shadow: 0px 0px 15px #fff;
     border-radius: 10px;
     height: 400px;
 }
@@ -11,9 +15,9 @@ body {
 .link-button {
     text-decoration: none;
     color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
-    padding: 5px;
-    border-radius: 5px;
-    box-shadow: 2px 3px #888888;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
